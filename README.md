@@ -65,7 +65,7 @@
 | 2   | 13:15-14:45 | Flite                                     |       |
 | 3   | xx:xx-xx:xx |                                           |       |
 | 4   | xx:xx-xx:xx |                                           |       |
-| 5   | 18:00-19:30 | [Champion b2b Dualistic](../master/champion_b2b_dualistic.md) | 23/? |
+| 5   | 18:00-19:30 | [Champion b2b Dualistic](../master/champion_b2b_dualistic.md) | 56/59 |
 | 6   | xx:xx-xx:xx |                                           |       |
 | 7   | xx:xx-xx:xx |                                           |       |
 | 8   | xx:xx-xx:xx |                                           |       |
