@@ -62,7 +62,7 @@
 | \#  | Time        | DJ                                        | ID'd  |
 | --- | ----------- | ----------------------------------------- | ----- |
 | 1   | xx:xx-xx:xx |                                           |       |
-| 2   | 13:15-14:45 | Flite                                     |       |
+| 2   | 13:15-14:45 | [Flite](../master/flite.md) | 53/53 |
 | 3   | xx:xx-xx:xx |                                           |       |
 | 4   | xx:xx-xx:xx |                                           |       |
 | 5   | 18:00-19:30 | [Champion b2b Dualistic](../master/champion_b2b_dualistic.md) | 56/59 |
