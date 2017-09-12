@@ -37,8 +37,8 @@
 | 24  | 00:31:00 | Netsky - Without You (Submatik Bootleg) |
 | 25  | 00:32:47 | Murdock, Submatik & Jenna G - Good Luv |
 | 26  | 00:33:30 | ID |
-| 27  | 00:34:34 | ID |
-| 28  | 00:36:22 | Eric Prydz - Breathe (feat. Rob Swire) (Sub Focus Remix) |
+| 27  | 00:34:34 | Dualistic - ID |
+| 28  | 00:36:22 | Eric Prydz - Breathe (feat. Rob Swire) (Submatik Bootleg) |
 | 29  | 00:38:10 | deadmau5 - Raise Your Weapon w/ deadmau5 - Strobe (Dimension Remix) |
 | 30  | 00:40:41 | Dr Kucho! & Gregor Salto - Can't Stop Playing (Makes Me High) (feat. Ane Brun) (Cyantific Remix) |
 | 31  | 00:42:19 | MC Panjabi - Mundian To Bach Ke (Flite Bootleg) |
